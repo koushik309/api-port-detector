@@ -1,4 +1,3 @@
-# api-port-detector
 # REST API Server Detection Tool
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
